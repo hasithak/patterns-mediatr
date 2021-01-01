@@ -1,0 +1,9 @@
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\data\learning\.net-core\patterns\MediatR-Pattern\Service\obj\Debug\netcoreapp3.1\Service.pdb
